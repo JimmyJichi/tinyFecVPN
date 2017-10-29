@@ -1,6 +1,6 @@
 # tinyFecVPN
 
-**Warning**: This modification is untested and might not work.
+**Warning: This modification is untested and might not work.**
 
 A tiny VPN with Build-in FEC Support, now with bypassing firewall supprt.
 
